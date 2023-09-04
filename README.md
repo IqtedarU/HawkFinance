@@ -1,4 +1,4 @@
-# HawkFinance
+# P33 Project - HawkFinance
 
 --> Final Project for CS-100
 
